@@ -20,7 +20,7 @@ Inspiration for this application came from popularity of sports in current socie
 
 Frontend: React, Next.js, Javascript
 
-Backend: Node.js, Express
+Backend: Node.js, Express, Vercel
 
 ## Features
 
